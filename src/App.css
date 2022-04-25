@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: #9aa19e;
+  background-color: #ebedec;
   
 }
 
@@ -44,4 +44,7 @@ h1 {
   background: #1abc9c;
   color: white;
   font-size: 30px;
+}
+button .button {
+	background: #1abc9c;
 }
